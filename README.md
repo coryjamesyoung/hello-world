@@ -1,2 +1,3 @@
 # hello-world
-Humanities PhD Learning GitHub
+Just a humanities PhD trying to learn GitHub
+This is a useful exercise
